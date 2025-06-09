@@ -1,0 +1,6 @@
+id_persediaan,tanggal_persediaan,kode_produk,nama_produk,jumlah_stok,lokasi_gudang
+1,2025-01-31,P001,Sepatu Olahraga,80,Gudang Jakarta
+2,2025-01-31,P002,Jaket Kulit,40,Gudang Bandung
+3,2025-02-15,P003,Tas Ransel,70,Gudang Surabaya
+4,2025-02-28,P001,Sepatu Olahraga,150,Gudang Jakarta
+5,2025-03-15,P002,Jaket Kulit,90,Gudang Bandung

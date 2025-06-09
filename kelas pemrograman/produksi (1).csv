@@ -1,0 +1,6 @@
+id_produksi,tanggal_produksi,kode_produk,nama_produk,jumlah_produksi,biaya_produksi
+1,2025-01-10,P001,Sepatu Olahraga,100,150000.50
+2,2025-01-15,P002,Jaket Kulit,50,250000.75
+3,2025-02-01,P003,Tas Ransel,80,180000.25
+4,2025-02-10,P001,Sepatu Olahraga,120,148000.00
+5,2025-03-01,P002,Jaket Kulit,60,255000.00

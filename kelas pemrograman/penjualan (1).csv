@@ -1,0 +1,6 @@
+id_penjualan,tanggal_penjualan,kode_produk,nama_produk,jumlah_terjual,harga_jual,total_pendapatan
+1,2025-01-20,P001,Sepatu Olahraga,20,200000.00,4000000.00
+2,2025-01-25,P002,Jaket Kulit,10,350000.00,3500000.00
+3,2025-02-05,P003,Tas Ransel,15,250000.00,3750000.00
+4,2025-02-20,P001,Sepatu Olahraga,30,205000.00,6150000.00
+5,2025-03-10,P002,Jaket Kulit,25,360000.00,9000000.00
